@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CALCULADORA made by Cesar Rodriguez</string>
+    <string name="btn_text_suma">+</string>
+    <string name="btn_text_resta">-</string>
+    <string name="btn_text_multiplicacion">x</string>
+    <string name="btn_text_division">/</string>
+    <string name="text_hint_numero">Escribe aqui</string>
+    <string name="btn_text_politicas">Politicas de privacidad</string>
+
+
+</resources>
